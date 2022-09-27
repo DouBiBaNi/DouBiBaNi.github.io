@@ -6,6 +6,10 @@
     "title": "DouBiBaNi",
     "instruction": "Winter is coming",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
+    "filter": {
+        "creator": "DouBiBaNi",
+        "state": "open"
+    },
     "menu": {
         "首页":"./"
 
