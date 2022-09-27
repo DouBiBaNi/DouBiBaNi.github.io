@@ -1,32 +1,20 @@
 {
-    "name": "imuncle",
-    "repo": "imuncle.github.io",
-    "client_id": "22aaa014a31e292cfe21",
-    "client_secret": "7ba1b3718986fba62fdceb47c0a2f23a1adf0c1b",
-    "title": "大叔的小站",
-    "instruction": "往事随他去，人间不值得",
+    "name": "DouBiBaNi",
+    "repo": "DouBiBaNi.github.io",
+    "client_id": "1d4c24fdf9e12b9b1bb7",
+    "client_secret": "495ec638b6529143f4636523b8eb30cf108ffaac",
+    "title": "DouBiBaNi",
+    "instruction": "Winter is coming",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "menu": {
-        "首页":"./",
-        "机器学习":"issue_per_label.html?label=AI",
-        "小项目":"issue_per_label.html?label=Project",
-        "RM比赛":"issue_per_label.html?label=RM",
-        "ROS学习":"issue_per_label.html?label=ROS",
-        "小工具":"issue_per_label.html?label=tools",
-        "网页开发":"issue_per_label.html?label=web",
-        "其他":"issue_per_label.html?label=other",
-        "灵感想法":"https://imuncle.github.io/timeline"
+        "首页":"./"
+
     },
-    "friends": {
-        "Bo": "https://blog.greedfox.com/",
-        "Qmaker": "https://hitszqmaker.github.io",
-        "KT's Blog": "https://tangkaichuan.cn/",
-        "lucainiaoge": "https://lucainiaoge.github.io/"
-    },
+
     "icons": {
         "Github": {
             "icon_src": "images/github.svg",
-            "href": "https://github.com/imuncle",
+            "href": "https://github.com/DouBiBaNi",
             "hidden_img": null,
             "width": 0
         },
@@ -38,7 +26,7 @@
         },
         "QQ": {
             "icon_src": "images/QQ.svg",
-            "href": "tencent://message/?uin=1378006772",
+            "href": "tencent://message/?uin=1923966229",
             "hidden_img": null,
             "width": 0
         }
