@@ -4,33 +4,35 @@
     "client_id": "1d4c24fdf9e12b9b1bb7",
     "client_secret": "495ec638b6529143f4636523b8eb30cf108ffaac",
     "title": "DouBiBaNi",
-    "instruction": "Winter is coming",
+    "instruction": "never say never",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "filter": {
         "creator": "DouBiBaNi",
         "state": "open"
     },
     "menu": {
-        "首页":"./"
-
+        "首页":"./",
+        "度娘" : "https://www.baidu.com"
     },
-
+    "friends": {
+        "imuncle" : "https://imuncle.github.io"
+    },
     "icons": {
-        "Github": {
-            "icon_src": "images/github.svg",
-            "href": "https://github.com/DouBiBaNi",
-            "hidden_img": null,
-            "width": 0
+        "Github" : {
+            "icon_src" : "images/github.svg",
+            "href" : "https://github.com/goofegg",
+            "hidden_img" : null,
+            "width" : 0
         },
         "Wechart": {
             "icon_src": "images/wechart.svg",
-            "href": null,
+            "href": "https://goofegg.github.io/images/wechart-qrcode.jpg",
             "hidden_img": "images/wechart-qrcode.jpg",
             "width": 130
         },
         "QQ": {
             "icon_src": "images/QQ.svg",
-            "href": "tencent://message/?uin=1923966229",
+            "href": "tencent://message/?uin=50671296",
             "hidden_img": null,
             "width": 0
         }
