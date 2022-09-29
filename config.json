@@ -11,7 +11,7 @@
         "state": "open"
     },
     "menu": {
-        "首页":"./",
+        "Back":"./",
         "度娘" : "https://www.baidu.com"
     },
     "friends": {
@@ -20,20 +20,20 @@
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "https://github.com/goofegg",
+            "href" : "https://github.com/DouBiBaNi",
             "hidden_img" : null,
             "width" : 0
         },
         "Wechart": {
             "icon_src": "images/wechart.svg",
-            "href": "https://goofegg.github.io/images/wechart-qrcode.jpg",
+            "href": null,
             "hidden_img": "images/wechart-qrcode.jpg",
             "width": 130
         },
         "QQ": {
             "icon_src": "images/QQ.svg",
-            "href": "tencent://message/?uin=50671296",
-            "hidden_img": null,
+            "href": "tencent://message/?uin=1923966229",
+            "hidden_img": "images/qq-qrcode.jpg",
             "width": 0
         }
     }
