@@ -13,7 +13,9 @@ var LAppDefine = {
      */
     MODELS:
     [
-        ["model/22/index.json"]
+        ["model/22/index.json"],
+        ["model/hijiki/hijiki.model.json"],
+        ["model/wanko/wanko.model.json"]
     ]
 };
 

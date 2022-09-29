@@ -12,9 +12,10 @@
     },
     "menu": {
         "Back":"./",
-        "度娘" : "https://www.baidu.com"
+        "About me" : "https://DouBiBaNi.github.io/content.html?id=3"
     },
     "friends": {
+        "度娘" : "https://www.baidu.com",
         "imuncle" : "https://imuncle.github.io"
     },
     "icons": {
