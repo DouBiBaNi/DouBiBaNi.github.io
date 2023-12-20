@@ -31,7 +31,8 @@
         <p class="name" id="instruction"></p>
         <p class="name">Never say
             <text id="changerificwordspanid"></text>
-            Today
+            <text id="dayOfWeek"></text>
+
         </p>
     </div>
     <div class="container">
@@ -62,6 +63,7 @@
         <div id='icon' style="display: flex;justify-content: center;padding: 0;align-items: center"></div>
         <div id="footer" style="text-align: center;background: #2c3e50;padding-top: 30px;color: white"></div>
     </div>
+
 </div>
 <img class="Totop" href="javascript:;" src="images/totop.png">
 <canvas class="live2d hidden-xs hidden-sm" id="live2d" width="220" height="200"></canvas>
@@ -107,6 +109,17 @@
             loop: true
         });
     });
+</script>
+<script>
+// 获取今天是星期几的函数
+function getDayOfWeek() {
+  const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+  const today = new Date().getDay(); // 获取今天是星期几，0代表星期日，1代表星期一，以此类推
+  return days[today];
+}
+
+// 在页面中展示今天是星期几
+document.getElementById('dayOfWeek').innerText = getDayOfWeek();
 </script>
 <script>
     var _hmt = _hmt || [];
